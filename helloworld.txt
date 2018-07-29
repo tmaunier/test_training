@@ -1,3 +1,4 @@
 Hello World !
 I am here to test git features through RStudio
 it works !
+my name is Tristan
