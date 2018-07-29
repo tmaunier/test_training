@@ -3,3 +3,4 @@ I am here to test git features through RStudio
 it works !
 my first name is Tristan
 foo bar titi toto
+I am currently working on the test branch
