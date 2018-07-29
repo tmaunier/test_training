@@ -1,2 +1,2 @@
 Hello World 
-I am here to test git features via RStudio
+I am here to test git features through RStudio
